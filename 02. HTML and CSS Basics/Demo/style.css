@@ -1,0 +1,17 @@
+body{
+    font-family: 'Potta one', cursive;
+}
+h1 {
+    color: aqua;
+}
+p {
+    background: green;
+    color: orange;
+}
+.red{
+    color: burlywood;
+}
+#haide{
+    text-align: center;
+    text-align: justify;
+}
